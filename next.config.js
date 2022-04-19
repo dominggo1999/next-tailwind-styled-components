@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: true,
-  experimental: {
+  compiler: {
     // Enables the styled-components SWC transform
     styledComponents: true,
   },

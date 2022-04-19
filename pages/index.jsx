@@ -3,7 +3,7 @@ import { Box } from '../components/Test';
 const Home = () => {
   return (
     <Box>
-      Placeholder
+      yeadh
     </Box>
   );
 };
